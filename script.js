@@ -1,3 +1,3 @@
 let person = "Guilherme";
 
-console.log("Bem vindo" + person);
+console.log("Bem vindo" + person)
