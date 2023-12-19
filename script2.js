@@ -43,7 +43,7 @@ while(vitorias >= 101) {
   break;
 }
 
-console.log("O herói tem saldo de " + vitorias + " Está no nível " + nivel)
+console.log("O herói tem saldo de " + vitorias + " Está no nível " + nivel);
 if(!exp) {
   console.log("Ocorreu um erro!");
 }
